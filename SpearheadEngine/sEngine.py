@@ -62,6 +62,14 @@ class collisionComponent:
 
 # ]
 
+# graphics [
+
+
+
+
+
+
+# ]
 
 # physics [
 
